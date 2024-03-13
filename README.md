@@ -1,0 +1,1 @@
+This repository contains a PDF file of the paper entitled 'Unravelling Ethical Dimensions in Blockchain Technology'. It is used as a project submission for Topics in Distributed Computing course at California State University, Long Beach. 
